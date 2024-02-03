@@ -1,16 +1,28 @@
-### Hi there 👋
+# Hi there 👋
 
-<!--
-**tabers77/tabers77** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🔭 Currently Working On
+- Exploring Advanced NLP Techniques
+- Software Engineering
 
-Here are some ideas to get you started:
+## 🌱 Currently Learning
+- Advanced NLP Techniques
+- Software Engineering
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 👯 Looking to Collaborate On
+- Data Science Related Projects
+
+## 🤔 Seeking Help With
+- Data Science Related Projects
+
+## 💬 Ask Me About
+- Data Science
+- Python
+
+## 📫 How to Reach Me
+- [Insert your preferred contact method or link to your social media or email]
+
+## 😄 Pronouns
+- [Optional: Add your preferred pronouns here]
+
+## ⚡ Fun Fact
+- [Insert an interesting or quirky fact about yourself]
